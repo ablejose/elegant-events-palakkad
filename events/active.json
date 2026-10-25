@@ -1,0 +1,60 @@
+{
+  "slug": "elegant-events-palakkad",
+  "name": "Elegant Events",
+  "shortName": "Elegant",
+  "descriptor": "Event Management",
+  "address": "Civil Station, near Fire Station, Vivekananda Colony, Selvapalayam, Palakkad, Keralam 678013",
+  "area": "Selvapalayam",
+  "city": "Palakkad",
+  "district": "Palakkad",
+  "region": "Kerala",
+  "postalCode": "678001",
+  "geo": {
+    "lat": 10.7590706,
+    "lng": 76.6591971
+  },
+  "mapsLink": "https://maps.google.com/?cid=1843601149147705713",
+  "phone": "+91 98094 98890",
+  "whatsapp": "919809498890",
+  "instagram": "https://instagram.com/elegant_events_studio?r=nametag",
+  "hours": "Open 9 am – 9 pm · all days",
+  "opens": "09:00",
+  "closes": "21:00",
+  "rating": 4.9,
+  "reviewCount": 91,
+  "reviews": [
+    {
+      "name": "aniyan unni",
+      "rating": 4,
+      "quote": "We are very happy with the decoration arrangements for our daughter's wedding engagement event at Udaya Resort AC Hall. The stage decoration, entrance décor, and welcome counter were all completed on time and met our expectations."
+    },
+    {
+      "name": "Viswanath R V",
+      "rating": 5,
+      "quote": "​We hired Elegant events for our wedding reception decor, and they did a fantastic job! Everything looked incredibly neat, well-executed, and exactly as planned. Their pricing was fair and completely in line with our expectations. On top of that, they were super punctual and handled every task on time with zero hiccups."
+    },
+    {
+      "name": "Smera R",
+      "rating": 5,
+      "quote": "Elegant events just created a magic for my son's birthday, the decorations was too good like how I just asked them to do. I am so happy nd satisfied."
+    },
+    {
+      "name": "Aswathy Suraj",
+      "rating": 5,
+      "quote": "Thank you for organizing such a wonderful birthday celebration for our son. Everything was beautifully arranged and well managed. The decorations, coordination, and overall event were excellent. Thankyou elegant events!!!😊"
+    },
+    {
+      "name": "Anushruthi",
+      "rating": 5,
+      "quote": "We had an amazing experience with the event management team for our engagement. From the very first discussion to the final moments of the event, everything was handled with professionalism, creativity, and great attention to detail. The décor was absolutely beautiful and exactly how we had imagined it."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://elegant-events-palakkad.vercel.app"
+}
